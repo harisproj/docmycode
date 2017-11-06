@@ -17,3 +17,17 @@ needs a company page with pricing and others
     code execution and showing result
     api release notes for latest versions
     document change history
+    date and time of last modified on the document and also show the contributers
+    role management
+
+Controls
+-------------------
+Header
+Subheader
+Text editor (minimal)
+paragraph
+photos
+code editors
+callouts
+table
+embed url
