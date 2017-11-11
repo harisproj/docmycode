@@ -1,0 +1,21 @@
+{
+  "name": "docmycode_client",
+  "version": "1.0.0",
+  "description": "DocMyCode client project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "doc",
+    "my",
+    "code;",
+    "document;",
+    "document",
+    "code;",
+    "code",
+    "documentation"
+  ],
+  "author": "Harikrishnan",
+  "license": "ISC"
+}
